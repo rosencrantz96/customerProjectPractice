@@ -32,8 +32,7 @@ public class Customer {
 	}
 	
 	public String showCustomerInfo() {
-		System.out.println("========모든 고객 정보 출력========");
-		return customerID + "님의 등급: " + customerGrade + ", 보너스 포인트: " + bonusPoint + "점";
+		return customerName + "님의 등급: " + customerGrade + ", 보너스 포인트: " + bonusPoint + "점";
 	}
 
 	public int getCustomerID() {

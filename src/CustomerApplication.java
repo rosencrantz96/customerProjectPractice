@@ -31,7 +31,7 @@ public class CustomerApplication {
 		customerList.add(customerLee2);
 		// 배열에 더해줘서 배열 각각의 방에 객체들이 들어가 있음. (배열 인덱스 번호 받음) 
 		
-		showAllCustomer(); // (static 전역변수니까 여기서 바로 실행 가능! 
+		showAllCustomer(); // (static 전역변수니까 여기서 바로 실행 가능!)
 		
 		// id로 고객 찾기
 		Customer customer = findCustomer(10050); // Customer 객체를 받는다.  ( 객체에 받아준다? )
