@@ -1,6 +1,6 @@
 
 public class VIPCustomerOther extends Customer {
-	// 필드 
+	    // 필드 
 		private int agentID; // 상담원 아이디 
 		double saleRatio; // 할인비율 
 		

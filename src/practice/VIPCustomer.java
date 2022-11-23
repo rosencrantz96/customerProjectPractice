@@ -1,4 +1,4 @@
-package Practice;
+package practice;
 
 public class VIPCustomer extends Customer {
 	// 필드
